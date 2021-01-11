@@ -1,19 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Joanne's Website
+description: Ramblings
+meta_description: ""
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl:
-domain_name: "http://yourblog-domain.com"
+domain_name: "http://joanne.soy"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url: ""
-author: "Your Name"
+author: "Joanne Lee"
 
 # Disqus config
 disqus-shortname: ""
